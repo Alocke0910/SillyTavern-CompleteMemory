@@ -1,0 +1,12 @@
+﻿{
+  "display_name": "完全记忆 | Complete Memory",
+  "loading_order": 10,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "author": "Alocke0910",
+  "version": "0.1.0",
+  "description": "终极记忆管理插件 — 实时提取/状态追踪/世界观维护/向量检索/关系网络",
+  "homePage": "https://github.com/Alocke0910/SillyTavern-CompleteMemory"
+}
